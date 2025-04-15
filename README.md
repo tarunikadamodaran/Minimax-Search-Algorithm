@@ -1,6 +1,8 @@
-<h1>ExpNo 5 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name:           </h3>
-<h3>Register Number/Staff Id:          </h3>
+<H1 ALIGN =CENTER>Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</H1>
+<H3>NAME: Tarunika D</H3>
+<H3>REGISTER NO.: 212223040227</H3>
+<H3>EX. NO.6</H3>
+<H3>DATE:</H3>
 <H3>Aim:</H3>
 <p>
     Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
